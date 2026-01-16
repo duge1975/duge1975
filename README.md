@@ -1,5 +1,5 @@
-## Hi there 👋
-## This is my blog: https://duge1975.github.io/duge.github.io/
+
+My blog: https://duge1975.github.io
 <!--
 **duge1975/duge1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
